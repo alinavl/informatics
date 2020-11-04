@@ -63,7 +63,7 @@
 
 3. iframe з результатом у pdf або html форматі
 
-<p>3. <iframe src="lab 3.pdf" width="500" height="700"></iframe></p>
+<p>3. <iframe src="lab3.pdf" width="500" height="700"></iframe></p>
 
 4. Посилання на Google диск для перегляду результату <p>4. <a href="https://drive.google.com/file/d/1pjGf-ruuJT2Tqm3kU9biKsUj53dRT-4b/view?usp=sharing">Посилання на Гугл диск</a></p>
 
@@ -71,11 +71,11 @@
 
 6.1. Рідний формат для редактору Microsoft Excel.
 
-<p>6.1 <a href="lab 3.xlsx">Формат Microsoft (*.xlsx)</a></p>
+<p>6.1 <a href="lab3.xlsx">Формат Microsoft (*.xlsx)</a></p>
 
 6.2. Рідний формат для редактору Libre (Calc) Office.
 
-<p>6.2 <a href="lab 3.ods">Формат Open Office (*.ods)</a></p
+<p>6.2 <a href="lab3.ods">Формат Open Office (*.ods)</a></p
    <div id="sidebar">
     <p><a href="index.html">Домашня сторінка</a></p>
     <p><a href="lab1.html">звіт до лабораторної роботи №1. Тема - Текстовий процесор</a></p>
